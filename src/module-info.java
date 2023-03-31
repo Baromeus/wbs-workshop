@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dusti
+ *
+ */
+module WBSWorkshop {
+}
